@@ -1,0 +1,54 @@
+# System
+
+
+## Enabling feedback when changing the volume
+
+### Problem
+You want to enable the feedback sound when you change the volume of your Mac.
+
+### Solution
+Go into `System Preferences -> Sound` and then click on the `Sound Effects` tab. There you will see a checkbox `Play feedback when volume is changed`. You need to check this checkbox to enable the feedback when changing the volume.
+
+### Discussion
+As an alternative you can press the `Shift(⇧)` key while changing the volume. This gives you the advantage to explicitly tell the operating system when you want the feedback to be played.
+
+
+
+## Installing apps on your Mac
+
+### Problem
+You want to install an app from the App Store.
+
+### Solution
+Open the App Store app and look for the App you want to install. If you don't exactly know what you are looking for, you can just browse through the categories. Click on the app and click the `buy` button and confirm the purchase with entering your Apple ID credentials in case you aren't logged in yet. If you already bought that app before you will see a button labeled with `install` instead.
+
+The app starts to install on your Mac. When it is finished you will be able to see it in your Applications directory and in your Launchpad.
+
+
+
+## Create Apps
+
+### Problem
+You want to create apps for the Mac.
+
+### Solution
+Creating apps for the Mac isn't as easy as you might think. You will need to have an understanding of a programming language like Objective-C and Swift.
+
+### Discussion
+Here is a [starting guide from Apple](https://developer.apple.com/library/Mac/referencelibrary/GettingStarted/RoadMapOSX/chapters/01_Introduction.html).
+
+
+
+## Uninstalling Apps
+
+### Problem
+You want to get rid of an app? Here is how to uninstall an app.
+
+### Solution
+To remove apps is very easy. Just go into your Applications folder. There you look for the app that you want to remove. Simply drag and drop it into the bin.
+
+### Discussion
+Some apps may leave some configuration files behind. You can also use a free app called [AppCleaner](http://www.freemacsoft.net/appcleaner/) to remove apps including their configuration and user data.
+
+
+

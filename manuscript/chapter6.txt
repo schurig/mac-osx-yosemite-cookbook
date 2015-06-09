@@ -1,0 +1,61 @@
+# User Interface
+
+
+## Maximize window without enabling full screen
+
+### Problem
+In all old versions of OS X you were able to maximize windows with a simple click on the green control button on the top left. Now, with Yosemite you always enter the full screen when you click on it.
+
+So how to maximize a window without enabling the full screen?
+
+### Solution
+**There are two options to do that:**
+
+* Hold the `Alt(⌥)` key and click on the green button.
+* Double click somewhere in the top-bar of the window *(does not work in all apps)*.
+
+
+
+## Social Media Buttons
+
+### Problem
+Since Yosemite the social media buttons in the notification center disappeared by default. How do I get them back?
+
+### Solution
+The social media buttons are now a widget that you can activate in your notification center.
+
+There is an other [recipe that shows you how to manage your widgets](#add-widgets-to-your-notification-center).
+
+
+
+## Change icon of a folder
+
+### Problem
+You want to change the icon of a folder.
+
+### Solution
+1.  Copy the picture that you want to use as the folders icon.
+
+2.  Open the info window by clicking right and clicking on&nbsp;`Get Info`.
+
+3.  Click on the icon right next to the folders title and paste the picture by pressing `Cmd(⌘)V`.
+
+### Discussion
+You want to use the icon of an other folder?
+
+Open the info window of the folder you want the icon to use from. There you click on the icon next to the folders title and copy it with `Cmd(⌘)C`.
+
+Next start with step 2 from above.
+
+
+
+## Rearrange icons in menu bar
+
+### Problem
+You want to change the order of the icons in the menu bar.
+
+### Solution
+Hold down the `Cmd(⌘)` key and drag an icon to an other position of the menu bar. You can also just drag it out of the menu bar to get rid of it.
+
+
+

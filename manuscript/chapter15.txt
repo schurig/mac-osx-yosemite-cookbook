@@ -1,0 +1,65 @@
+# Productivity
+
+
+## Quick-type on the Mac
+
+### Problem
+You want to use the quick-type feature on your Mac.
+
+### Solution
+You can start writing a word and press the `ESC(⎋)` key. After you presst the key you will be able to see suggested words. You can navigate down and up with the navigation keys. Simply hit return to choose the right word.
+
+
+
+## Show .psd files in the Browser
+
+### Problem
+You want to view your .psd files right in your browser without opening it with Photoshop or preview.
+
+### Solution
+With OS X Yosemite it is possible to just view your files in Safari.
+
+### Discussion
+Unfortunately, that doesn't work in Google Chrome and Mozilla Firefox.
+
+
+
+## Speek to your Mac with Dictation
+
+### Problem
+You want to dictate to your Mac instead of typing all the words. Here is how to enable it.
+
+### Solution
+You can access Dictation with hitting the `Fn` key twice. After that you will be asked to enable it, do so.
+
+The first time you enable Dictation it has to download some data to detect what you're saying.
+
+When the download is finished you can hit the `Fn` key twice again and your Mac will be listening to what you're saying.
+
+To disable it again simply hit the `Fn` key twice again.
+
+### Discussion
+When Dictation is enabled you can also change the language of it. If that language library isn't downloaded yet, you might have to wait a few minutes until it did.
+
+
+
+## Add RSS feeds in Safari
+
+### Problem
+You want to subscribe to a RSS feeds without installing an app for that.
+
+### Solution
+With Safari that is very easy to do. Just follow the steps listed below.
+
+1.  Open Safari.
+
+2.  Navigate to the website or the direct link to the feed that you want to subscribe to.
+
+3.  Go into the sidebar by clicking on the icon that is right next to the navigation icons or simply using the keyboard shortcut `Shift(⇧)Cmd(⌘)L`.
+
+4.  Now click on the `@` tab and click on the `Subscriptions` button that is located on the bottom.
+
+5.  Add a feed and then select the feed you want to subscribe to.
+
+
+

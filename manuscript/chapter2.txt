@@ -1,0 +1,54 @@
+# Family Sharing
+
+
+## Setting up Family Sharing
+
+### Problem
+You want to set up Family Sharing to share your calendar, you reminders, location and purchases with your family.
+
+### Solution
+If you want to set up your Family then follow the instructions of the headline "Set up your family". Note that you should only set up a family if no one else of your family did already. Also keep in mind that the person who sets up the family is going to be the head of it. That means that you'll be the one who is paying the purchased content.
+
+If you want to join an already existing family you will need to ask a family head to send you an invite.
+
+### Set up your family
+
+Go to `System Preferences -> iCloud` and check that you're logged in with your Apple ID. If you are not, then do so now. When you're logged in you will see a button that says `Set Up Family`. Click on there.
+
+Next click `Continue`.
+
+Now enter the Apple ID credentials that you want to use for Family Sharing. That could be the same as your Apple ID that you're using for your iCloud but it can also be an other Apple ID. Just choose the one that you're using to buy things on the App Store and iTunes Store.
+
+As soon as you entered your credentials and hit `Continue` you will be shown the last four digits of your credit card. This credit card will be charged every time one of your family members purchases an app, song, album, video, ... you got the idea.
+
+You can then choose to share your location with other family members. Choose what you want.
+
+#### Inviting others to the family
+
+The next step is to add other family members. There you need to enter the family member's email address and hit `Next`. Confirm with your Apple ID and tap `Continue`. This will then send an invitation to your family member and ask them to join the family.
+
+They will get an email and push notification to their devices and can confirm to join the family.
+
+### Discussion
+There is a limit of six family members. Keep in mind that you can only join and create a new family twice each year. So don't fall in love too often.. :)
+
+
+
+## Share your purchases with your family
+
+### Problem
+Often you like an app and you buy it on the App Store, oh and now you want to set it up for someone in your family as well? That was a big problem before OS X Yosemite. You always had to login with your Apple ID, download the app, logout and login back into your family members account. And do you remember what was really annoying? When that person calls you and tells you, because there is an update that asks for your password.
+
+### Solution
+With the Family Sharing feature members have shared purchases if you enable them, so everyone in your family can download the app, movie or song that you have paid for.
+
+To activate it simply go to: `System Preferences -> iCloud ->`
+// TODO
+
+If you haven't [set up Family Sharing yet then you might want to see how to do](setting-up-family-sharing) so.
+
+### Discussion
+Unfortunately, there are limits. Currently there is a maximum of 6 members for a family. Oh and keep in mind that there is a **limit of joining and creating (new) families** as well. You can only join and create up to 2 families each year.
+
+
+

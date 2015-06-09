@@ -1,0 +1,71 @@
+# Handsoff
+
+
+## Enable Handoff between your Mac and your iCloud devices
+
+### Problem
+You want to use the new Handoff feature to connect you iOS device with you Mac.
+
+### Solution
+First of all make sure that both of your devices support that feature. You will need to have a Mac and an iOS device with the new Bluetooth 4/LE technology.
+
+1. On your iOS device go to `Settings -> General -> Handsoff & Suggested Apps` and turn on `Handsoff` if it isn't already.
+
+2. On your Mac open `System Preferences -> General` and activate `Allow Handoff between this Mac and your iCloud device`.
+
+### Discussion
+If you have an older Mac that doesn't support it, there are workarounds.
+
+
+
+## Receive & Send phone calls and text messages on your Mac
+
+### Problem
+You want to receive phone calls and SMS text messages on your Mac.
+
+### Solution
+### Phone calls on your Mac
+
+1.  On your phone go make sure that you are signed in with the Apple ID that you're using on your Mac. Also make sure that&nbsp;`iPhone Mobile Calls` is enabled on your phone. You can find that setting in `Settings -> FaceTime`.
+
+2.  On the Mac open the FaceTime app and go into the FaceTime preferences (`⌘,`).
+
+3.  Check the checkbox where it says `iPhone Cellular Calls`.
+
+4.  Make sure that both devices are connected to the same WiFi network.
+
+### Text messages on your Mac
+
+1.  Make sure that your Mac and your iPhone are both in the same WiFi network and that you use the same Apple ID for both devices.
+
+2.  On your iPhone go to `Settings -> Messages -> Text Message Forwarding`.
+
+3.  There you will see your Mac. Activate it. It will open a dialog where you need to enter a code.
+
+4.  Next open the Messages App on your Mac and you will see a code. Enter that code on your iPhone.
+
+5.  If you entered that code you're good to go!
+
+
+
+## Instant Hotspot
+
+### Problem
+You want to connect to your iOS devices hotspot without entering any password.
+
+### Solution
+Make sure Bluetooth is activated on your Mac and on your iOS device. Also make sure that you are signed in with the same Apple ID on both devices.
+
+1.  Activate WiFi on your Mac.
+
+2.  When you click on the WiFi symbol in the menu bar you will see your iOS device. Click on it.
+
+### Discussion
+Instand Hotspot only works with newer hardware that has the Bluetooth 4/LE built in.
+
+If your devices support it but it doesn't work for you, try to restart your Mac.
+
+If it's still not working try to sign out of your iCloud account on both devices and sign in again.
+
+
+

@@ -1,0 +1,78 @@
+# Sharing
+
+
+## Sending files to iOS devices
+
+### Problem
+You want to send files from your Mac to your iOS device.
+
+### Solution
+With OS X Yosemite it is finally possible to send files from OS X to iOS and vice versa. To do so you have to make sure that your iOS device and also your Mac have Bluetooth turned on. On your iOS device also make sure that AirDrop is turned on. Then open AirDrop on your Mac which you can find in Finder.
+
+You will now be able to see your iOS device. Just drag and drop the file on the device you want to send it to. And yes: it works with any kind of file. iOS will ask you with what you want to open the file with in case it doesn't support the file type by default.
+
+
+
+## Sharing your screen with friends in Messages
+
+### Problem
+You want to share your computers screen with somebody else.
+
+### Solution
+1.  Open the Messages app and start a conversation with the person you want to share your screen with.
+
+2.  Click on Details on the right top.
+
+3.  Click the icon with the two screens that is placed next to the phone and camera icon.
+
+4.  Now you can choose between requesting the desktop of the other person or invite that person to share your screen.
+
+### Discussion
+Unfortunately, there is no opportunity to share your screen with multiple people at the same time, yet.
+
+There are alternatives like [TeamViewer](http://www.teamviewer.com) and [Screenhero](https://screenhero.com) that can do that.
+
+
+
+## Share your Internet with other devices
+
+### Problem
+You want to share the internet connection of your Mac to other devices around you.
+
+### Solution
+// internet sharing option
+
+
+
+## Share calendars and reminders
+
+### Problem
+You want to share you calendar or reminder list with others.
+
+### Solution
+### Sharing Reminder Lists
+
+1.  Open the Reminders app.
+
+2.  Hover the reminder list that you want to share and click on the feed icon that appears next to the title on the right side.
+
+3.  There you will be able to enter email addresses.
+
+4.  After you have entered the email address and clicked `Done` it automatically invites these people. They have to confirm with a link that was sent to their email address.
+
+From now on all the reminders you enter in that list will be shared with these people.
+
+### Sharing a Calendar
+
+1.  Open the Calendar app.
+
+2.  Click the calendar that you want to share and you will see that a feed icon appears right next to the title of the calendar. Click on it.
+
+3.  There you have a choice between sharing this calendar publicly by sending a link to other people and specifically saying what people you want to share the calendar with.
+
+4.  If you choose to specifically say what people get access to that calendar, just type in the email address of the person you want to invite.
+
+5.  After hitting return and clicking `Done` it will automatically send an email with a confirmation link to that person.
+
+
+

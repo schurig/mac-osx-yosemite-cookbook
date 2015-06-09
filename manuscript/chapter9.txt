@@ -1,0 +1,23 @@
+# Shell hacks
+
+
+## Changing the screenshot directory
+
+### Problem
+You want to store your screenshots in a folder that is not the desktop.
+
+### Solution
+E. g. create a folder `Screenshots` in your Pictures directory.
+
+What you will need is to open the Terminal and run the following commands:
+
+`mkdir ~/Pictures/Screenshots`
+
+`defaults write com.apple.screencapture location ~/Pictures/Screenshots/`
+
+`killall SystemUIServer`
+
+When you now take a screenshot you will see that it will appear in the Screenshots folder that you have created.
+
+
+

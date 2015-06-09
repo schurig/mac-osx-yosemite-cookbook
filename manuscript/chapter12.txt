@@ -1,0 +1,37 @@
+# Finder
+
+
+## Batch rename multiple files
+
+### Problem
+You want to change the name of multiple files at the same time.
+
+### Solution
+With OS X Yosemite there comes a new powerful feature called Batch Rename.
+
+To use that feature just go into a folder where you have multiple files in it that you want to rename. Simply select them and do a right-click and select `Rename [n] Items ...`.
+
+You will see that there is a drop down of three options that you can choose from:
+
+### Replaced Text&nbsp;
+
+With that option you can find words and replace them with something.
+
+### Add text
+
+This option gives you the opportunity to add text **after the name or before**.
+
+### Format
+
+With the format functionality you can choose a format for all files. The format consists of:
+
+*   <span>either a custom string or if the field `Custom Format` is empty, the files current name</span>
+
+*   and an index, counter or date (`Name Format`)
+
+You can of course also choose in which order you want the format to be (`after name` or `before name`). As well you can tell the tool where it should start counting (`Start number at`).
+
+_Tipp: You can always see an example on the bottom._
+
+
+

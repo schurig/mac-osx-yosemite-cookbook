@@ -1,0 +1,20 @@
+# Workarounds for older devices
+
+
+## Use AirDrop with older Macs
+
+### Problem
+You want to send files to an older Mac using AirDrop.
+
+### Solution
+Open Finder and the AirDrop window on both Macs. Make sure that you have WiFi and Bluetooth activated.
+
+Now you need to click on the `Don't see who you're looking for?` dialog and tell AirDrop to also show older Macs.
+
+After that you should be able to see older Macs in AirDrop.
+
+### Discussion
+Unfortunately, you have to do that every time you want to send Files to an older Mac. There is no option where you can tell your Mac to remember the setting.
+
+
+

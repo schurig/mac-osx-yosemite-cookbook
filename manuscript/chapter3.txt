@@ -1,0 +1,43 @@
+# Dark-Mode
+
+
+## Automatically enable dark-mode for sunset
+
+### Problem
+Usually, in OS X Yosemite you have to manually enable the dark mode. Maybe you want to have your Mac switching to dark mode based on the time. But what if you could simple enable it automatically when the sun sets?
+
+### Solution
+**Bad news:** there is no option that comes with Yosemite
+
+**Good news:** there is an awesome App that can do that for you:
+
+The app is called [f.lux](https://justgetflux.com/) and it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
+
+With Yosemite it added the option of automatically enabling the dark-mode when the sun sets. Try it, it's free!
+
+
+
+## Setting a keyboard shortcut to switch to dark-mode
+
+### Problem
+To enable the dark mode you normally always have to go into the system preferences and enable it manually. How to enable it with a keyboard shortcut?
+
+### Solution
+1. Open Terminal.
+
+2. Run the following command (you will need to confirm it with your admin password):
+`sudo defaults write /Library/Preferences/.GlobalPreferences.plist _HIEnableThemeSwitchHotKey -bool true`.
+
+3. Restart Finder by holding `Alt(⌥)` key and right-clicking on the Finder and "Relaunch".
+
+Press the shortcut `Ctrl+Alt(⌥)+Cmd(⌘)+T` to enable and disable dark-mode.
+
+### Discussion
+To deactivate the keyboard shortcut just run the following command in your Terminal App:
+
+`sudo defaults write /Library/Preferences/.GlobalPreferences.plist _HIEnableThemeSwitchHotKey -bool false`
+
+Now follow step 3 from above and you're done.
+
+
+

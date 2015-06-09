@@ -1,0 +1,19 @@
+# Notification Center
+
+
+## Add widgets to your notification center
+
+### Problem
+Your notification center is very easy to access. So, let's say you want to know what the weather is like - oh hold on, you're not at home. Wouldn't it be nice to just check the weather right from your notification center? And wouldn't it be even better if you were able to see the weather from all the locations that you saved in your iPhone?
+
+### Solution
+1.  Just swipe to the left with your trackpad or click the icon on the very top right of your screen for the notification center.
+
+2.  Next you will need to click on the `Today` tab if it isn't selected yet and hit the&nbsp;`Edit` button on the bottom.
+
+3.  Now you can add the weather widget to your notification center.
+
+Of course you can do that with all other widgets that you see there. It is also possible that you find third-party apps in there. Since Yosemite, developers of Apps now have the opportunity to create widgets.
+
+
+

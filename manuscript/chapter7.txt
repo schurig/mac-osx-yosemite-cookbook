@@ -1,0 +1,36 @@
+# Mail
+
+
+## Editing pictures with Markup
+
+### Problem
+You don't want to open third-party apps like Photoshop to quickly mark a spot on a picture that you want to send to someone.
+
+### Solution
+Since OS X Yosemite there is a new feature called Markup.
+
+Markup is a simple tool that you can use right in your Mail app. You can edit pictures with it and sign emails.
+
+To to that just compose a new email with the Mail app. Then drag a file like a .pdf or an image into the composing area.
+When you now click on it you will see a small arrow appearing. Click on it and choose `Markup`.
+
+This will open an interface where you can mark things, write words and sign your emails with your signature.
+
+When you're done editing simply hit `Done` in the upper right corner.
+
+
+
+## Using Mail Drop to send large files
+
+### Problem
+You want to send a large file _(> 36 MB)_ using email.
+
+### Solution
+Compose a new email in the Mail app and simply drag and drop the big attachment into the composing area.
+
+As soon you send this email it will ask you: `Would you like to send this attachment using Mail Drop?`
+
+There you can tell the Mail app to use Mail Drop to store the attachment in your iCloud. Instead of the attachment a link will be inserted in your email. The recipient will be able to click on the link and download the large file there.
+
+
+

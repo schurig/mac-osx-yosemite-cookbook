@@ -1,0 +1,154 @@
+# Hot Tipps
+
+
+## Get more options with one key press
+
+### Problem
+Sometimes you want more information than the one that is displayed. Here is how to show advanced options with one single key.
+
+### Solution
+Just hold down the `Alt(⌥)` key when clicking.
+
+You will be able to see more options in many cases. Try it with the Wifi icon in the menu bar - there you will be able to see how good your WiFi signal is.
+Not surprised? Try it with the speaker icon and you will be able to quickly select the output devices.
+
+
+
+## Adding blank spaces in your Dock
+
+### Problem
+[https://www.reddit.com/r/apple/comments/2syjxl/pro_tip_better_organize_your_dock_by_adding_blank/](https://www.reddit.com/r/apple/comments/2syjxl/pro_tip_better_organize_your_dock_by_adding_blank/)
+
+
+
+## Show full website URL in Safari
+
+### Problem
+You want to see the full website URL instead of only the domain in Safari.
+
+### Solution
+Open Safari and enter the Safari preferences `Cmd(⌘),`. Then go to Advanced and set the checkbox where it says `Show full website address`.
+
+### Discussion
+To show full URLs in Chrome just type the following URL into the address bar. There you will be able to set the setting. 
+
+`chrome://flags/#origin-chip-in-omnibox`
+
+
+
+## Shortcut to translate words
+
+### Problem
+If you are bilingual you sometimes have the problem that you don't remember a word. But you also don't want to switch to an other window to look it up. **So how do you lookup a word in the dictionary with a shortcut?**
+
+### Solution
+There are three options to do that.
+
+### Using the trackpad
+
+1.  Make sure that the option `Look up` in your trackpad settings is activated. For that go to `System Preferences -> Trackpad`.
+
+2.  Click with three fingers on a word that you want to define.
+
+### Using a keyboard shortcut
+
+*   Select a word and press `Cmd(⌘)+Ctrl+D`.
+
+### Right click
+
+*   Select a word, click right and select `Look up ...`.
+
+### Discussion
+You can add and activate plugins for the dictionary app with opening the app and going into its preferences (`⌘+,`).
+
+E. g. if you want to have the German translation for an English word you can download&nbsp;[this plugin](http://lipflip.org/articles/dictcc-dictionary-plugin)&nbsp;(with instructions).
+
+There are a lot more dictionary plugins out there!
+
+
+
+## Mirror your iOS screen to your Mac
+
+### Problem
+You want to mirror your iOS devices screen to you Mac. That can be useful if you want to record a review of an iOS app.
+
+### Solution
+1.  Open Quick Time Player.
+
+2.  In the menu bar click `Edit -> New Movie Recording` or just use the keyboard shortcut `Alt(⌥)Cmd(⌘)N`.
+
+3.  Now click on the arrow down that is on the right side next to the record button.
+
+4.  There you will be able to select your iOS Device by its name as a camera.
+
+
+
+## Insert Emoticons and special Characters
+
+### Problem
+If you ❤ using emoticons on your phone you also want to be able to write them using your Mac. Also you may want to insert special characters that are not present on an usual keyboard.
+
+### Solution
+There is a shortcut to insert them. Simply click in the text field where you want to insert the emoticon or special character and press `Ctrl+Cmd(⌘)`, hold it down and press the `Space` key.
+
+### Discussion
+In most apps you can also go to `Edit -> Special Characters`.
+
+
+
+## Using Spotlight
+
+### Problem
+You want to take the most out of Spotlight and quickly open apps, calculate, look up for things and do conversions.
+
+### Solution
+You can either click on the **magnifying glass icon**&nbsp;which is placed in the menu bar or use the keyboard shortcut `Cmd(⌘)Space`.
+
+It is highly recommended to memorise the keyboard shortcut. 
+
+### Open things quickly
+
+Run spotlight and start entering the name of the app you want to open. As soon as you see that it suggests you the right app just hit return to open it. You can also do that with every file.
+
+### Perform calculations and unit conversions
+
+You can also type in `3+5` and it will show you the result 8.
+
+To convert a currency into an other currency just type e. g. `1 euro in usd`.
+
+To convert meters in inches simply type `5m in inch`
+
+### Play Music
+
+Just start typing the name of the song and hit return as soon as you see the song you want to listen to.
+
+### Search for Contacts
+
+Type the name of the person you want to find and hit return.
+
+* * *
+
+See how easy it is?
+
+### Discussion
+If it doesn't search the internet you should check your Spotlight settings for `Bing Search Results`.
+
+
+
+## Shortcut to disable notification center
+
+### Problem
+Sometimes you have to be focused on something and don't want to get disturbed. Or maybe you are holding a presentation and there is a notification that disturbs. In that case it would be nice to quickly disable the notification center without having to deal with too many clicks.
+
+### Solution
+Hold down option/ `Alt(⌥)` key and click the notification center icon on the very right top corner and you're good to go.
+
+
+
+## Disable auto-correction for single word
+
+### Problem
+https://apple.stackexchange.com/questions/104548/can-i-disable-auto-correction-of-a-single-word-on-os-x
+
+
+

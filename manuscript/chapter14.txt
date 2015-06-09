@@ -1,0 +1,19 @@
+# Communication
+
+
+## Sending audio messages
+
+### Problem
+You want to send audio messages with your Mac.
+
+### Solution
+1.  Open the Messages App and start a conversation.
+
+2.  On the right bottom of the window you will see a microphone. Click it to start recording.
+
+3.  When you are done with your audio message just click the stop button on the right.
+
+4.  Now you can choose between `Send` to send the message to the people in the conversation and `Cancel` to discard the message.
+
+
+

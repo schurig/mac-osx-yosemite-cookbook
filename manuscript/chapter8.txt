@@ -1,0 +1,101 @@
+# Security
+
+
+## Using a virus scanner
+
+### Problem
+You want your Mac to be protected against Viruses.
+
+### Solution
+Apples operating system benefits from the App Store. If you only download apps from the App Store you won't need any protection, because all apps that are in there got reviewed by Apple and every single app is signed with the developers certificate.
+
+**To sum it up**: normally, it is not essential to use a virus scanner on your Mac.
+
+### Discussion
+If you download apps that are not signed with a verified developer certificate you will have to explicitly tell the operating system that you really want to execute the application.
+
+You still want to check your Mac for viruses? Try [ClamXav](http://www.clamxav.com/).
+
+
+
+## Encrypting emails and single files
+
+### Problem
+You want to encrypt your emails and single files.
+
+### Solution
+### Encrypting emails
+
+To encrypt your emails there are two encryptions that you can use.
+
+#### Encrypting emails with S/MIME
+
+You will need to get a&nbsp;S/MIME certificate. Add your certificate to the keychain by clicking on the .p7s file.
+
+After that open the Mail app or restart it if it is already opened. Then start composing a new email. There you will be able to see two new buttons next to the subject field. One icon indicates whether your email is going to be signed with your certificate and the other one is showing you whether the email is going to be encrypted.
+
+_Notice: you will need the public certificate of the recipient. As soon both parties sent each other a signed email, the email program on the Mac will automatically store their public key._
+
+#### Encrypting emails with OpenPGP
+
+This is an open source solution that is easy to set up on your Mac. Download and install the [GPGTools](https://gpgtools.org/).
+
+If you do not have a GPG key follow the great [how-to](http://support.gpgtools.org/kb/how-to/first-steps-where-do-i-start-where-do-i-begin#setupkey) from the official page.
+
+Now simply open the Mail app and create a new email. Near the subject line you will now see two icons. One for encrypting and an other one for signing an email. It could be that the encrypting icon is grayed-out. You will need to have the public gpg key of the recipient.
+
+_Notice: you will need to have the email account set up in the Mail app that your gpg key is for._
+
+When you're finished with your email you can send it and it will be encrypted and signed if you activated it with the icons.
+
+### Encrypting single files
+
+#### Encrypting files with OpenPGP
+
+If you want to encrypt single files need to download and install the [GPGTools](https://gpgtools.org/). With these tools you are able to do a right-click on every file and select `Services -> OpenPGP Encrypt Files`.
+
+### Discussion
+If you use both of the methods above to encrypt your email you will see a selection on the upper right corder of the mail composing window. There you can choose which one you would like to use.
+
+
+
+## Secure your Mac
+
+### Problem
+You always want to be sure that no person but you can see your files and read your activity.
+
+### Solution
+*   OS X Yosemite provides a security layer called **FileVault**. It encrypts your entire disk. So when your Mac is turned off other people will have a hard time accessing your files. You can turn it on in `System Preferences -> Security & Privacy -> FileVault`.
+
+*   When you are in public WiFi make sure that you have your **Firewall** turned on. You can do that here: `System Preferences -> Security & Privacy -> Firewall`. If you don't want your Mac to respond to any Network requests you can turn on two extra options in the Firewall Options: `Block all incoming connections` and `Enable stealth mode`.
+
+*   Make sure all **sharing options** in `System Preferences -> Sharing` are **turned off**.
+
+*   **Deactivate Bing search results** in Spotlight by going to  `System Preferences -> Spotlight` and uncheck `Bing Web Searches` to prevent Bing to see what you are typing when using Spotlight.
+
+### Discussion
+If you explicitly want to say what app can connect where and how to respond to certain incoming requests you can use a tool called [Little Snitch](http://www.obdev.at/products/littlesnitch/index.html).
+
+
+
+## Backing up your Mac
+
+### Problem
+You always want to have a backup of you Macs latest state, so that you can use it in case you get a new Mac or you loose data.
+
+### Solution
+With Time Machine Apple gives you a very easy way to create backups of you Mac. You will need an external hard drive or a NAS.
+
+To enable Time Machine go to `System Preferences -> Time Machine`.
+
+When you enable it Time Machine wants to know what hard drive you want your backup to be placed on. Choose the external hard drive or NAS that you want to use as your backup space.
+
+The first backup can take some time. All further backups only include the differences to the backup before, so they usually won't take long at all.
+
+Time Machine will create a backup every hour.
+
+### Discussion
+You can change the frequency of the backup with a tool called [TimeMachineEditor](http://timesoftware.free.fr/timemachineeditor/).
+
+
+
